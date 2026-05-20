@@ -39,7 +39,17 @@ Before starting, make sure you have:
 - Internet connection
 
 ---
+# Outputs
+
 <img width="1600" height="900" alt="dockerhub" src="https://github.com/user-attachments/assets/9ce3d791-65d9-47c3-8461-10b62e54bdb5" />
+
+<img width="1884" height="879" alt="image" src="https://github.com/user-attachments/assets/d7869b96-3f1a-458e-8218-3eabc5963f4a" />
+
+<img width="1472" height="642" alt="image" src="https://github.com/user-attachments/assets/4ac274b9-1de0-4a61-a609-832de2098b51" />
+
+<img width="1475" height="557" alt="image" src="https://github.com/user-attachments/assets/b1349851-ef99-4eae-a496-7cc8e2197741" />
+
+<img width="1908" height="630" alt="image" src="https://github.com/user-attachments/assets/df676dc8-c8dd-429c-961b-b904043117e3" />
 
 ---
 
@@ -89,6 +99,8 @@ By the end of this lab, you will be able to:
 - DockerHub
 
 ---
+# Outputs
+
 <img width="1600" height="626" alt="pipeline" src="https://github.com/user-attachments/assets/e7465ae3-8d35-4ead-8565-8b78c5aed101" />
 
 <img width="1588" height="581" alt="aws" src="https://github.com/user-attachments/assets/d061d489-b745-4022-97cc-4acac0f762d3" />
